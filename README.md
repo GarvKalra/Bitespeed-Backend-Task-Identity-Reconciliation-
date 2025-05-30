@@ -5,7 +5,7 @@ This project handles contact deduplication using phone number and/or email.
 ## Hosted Endpoint - https://bitespeed-backend-task-identity-d3nn.onrender.com/identify
 
 
-**POST** request to be made
+**POST** request to be made through postman or some other tool
 
 ### Request Body (JSON)
 
